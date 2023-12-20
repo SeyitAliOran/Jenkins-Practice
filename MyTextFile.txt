@@ -1,0 +1,1 @@
+Bu repsitory, Jenkins - GitHub Webhook entegrasyonu icin olusturulmustur-
